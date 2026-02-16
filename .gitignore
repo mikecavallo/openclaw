@@ -1,6 +1,5 @@
 node_modules
 **/node_modules/
-.env
 docker-compose.extra.yml
 dist
 pnpm-lock.yaml
@@ -86,3 +85,4 @@ USER.md
 !.agent/workflows/
 /local/
 package-lock.json
+config.bat
